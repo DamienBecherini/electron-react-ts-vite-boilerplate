@@ -1,4 +1,4 @@
-[![License: CC0-1.0](https://licensebuttons.net/l/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 # Electron + React + TS + Vite Boilerplate
 
@@ -95,4 +95,4 @@ src/
 
 ## 📄 License
 
-This project is dedicated to the public domain under the **CC0 1.0 Universal** license. You can copy, modify, distribute, and perform the work, even for commercial purposes, all without asking permission. For more details, see the [license text](http://creativecommons.org/publicdomain/zero/1.0/).
+This project is licensed under the [MIT License](LICENSE).

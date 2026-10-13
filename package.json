@@ -3,6 +3,7 @@
   "productName": "Mon Application",
   "private": true,
   "version": "0.0.0",
+  "license": "MIT",
   "description": "Un boilerplate pour des applications de bureau avec Electron, React, Vite, TypeScript et ShadCN/UI.",
   "type": "module",
   "main": "dist-electron/backend/main.js",
